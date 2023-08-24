@@ -1,2 +1,2 @@
-const name = "ami";
-console.log(name);
+const myName = "jay";
+console.log(myName);
