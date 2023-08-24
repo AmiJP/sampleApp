@@ -1,2 +1,4 @@
-const myName = "jay";
-console.log(myName);
+function sum(a, b) {
+  return a + b;
+}
+console.log(sum(10, 2));
